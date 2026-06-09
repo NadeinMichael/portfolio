@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.44cc4a52.css",
-    "main.js": "/portfolio/static/js/main.45ebbeb2.js",
+    "main.js": "/portfolio/static/js/main.c3f73aec.js",
     "static/media/news-app.big.jpg": "/portfolio/static/media/news-app.big.61467fbe5c80428e95ce.jpg",
-    "static/media/airpods-lending-big.jpg": "/portfolio/static/media/airpods-lending-big.c90e9d76bb90a39ecffe.jpg",
     "static/media/travel-x-big.jpg": "/portfolio/static/media/travel-x-big.6dd498f1ba378ee44d77.jpg",
     "static/media/travel-big.jpg": "/portfolio/static/media/travel-big.19f215305fd08ac73611.jpg",
     "static/media/iphone-big.jpg": "/portfolio/static/media/iphone-big.28f3cd3d8c79ef1c58b4.jpg",
@@ -30,10 +29,10 @@
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
     "main.44cc4a52.css.map": "/portfolio/static/css/main.44cc4a52.css.map",
-    "main.45ebbeb2.js.map": "/portfolio/static/js/main.45ebbeb2.js.map"
+    "main.c3f73aec.js.map": "/portfolio/static/js/main.c3f73aec.js.map"
   },
   "entrypoints": [
     "static/css/main.44cc4a52.css",
-    "static/js/main.45ebbeb2.js"
+    "static/js/main.c3f73aec.js"
   ]
 }

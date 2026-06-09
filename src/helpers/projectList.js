@@ -1,5 +1,5 @@
 import airpodsLending from '../img/projects/airpods-lending.jpg';
-import airpodsLendingBig from '../img/projects/airpods-lending-big.jpg';
+import airpodsLendingBig from '../img/projects/airpods-lending.jpg';
 
 import travel from '../img/projects/travel.jpg';
 import travelBig from '../img/projects/travel-big.jpg';
